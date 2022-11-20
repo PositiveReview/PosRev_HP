@@ -1,0 +1,29 @@
+[
+  {
+    "title": "少しの手直しの際に",
+    "description": "ちょっとした文章や少しの原稿改編の確認できます",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "気軽な発注",
+    "description": "少しの原稿チェックには、従来の発注プロセスは手間がかかり過ぎます",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "出版しない論文誌？",
+    "description": "学術誌で行われている査読・閲読の仕組みを、準備段階の原稿について利用できます",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
